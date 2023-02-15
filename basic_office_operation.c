@@ -3,8 +3,10 @@
 * C-programming
 * Program 2
 * 
-* Program to calcuate the basics office operation by taking the input from the user
-* 
+* Program to find sum of first and last digit in 4 number
+* Sum of first two and last two 1234 = 12 + 34 = 46
+* 1234 / 100 = 12 , 1234 % 100 = 34,,, 12 + 34 
+* 12%2 = 2  34/3 = 3 , 2+3 = 5 Once you understand the MATHS behind the program you can do any program
 *******************************************************************************/
 
 #include <stdio.h>
